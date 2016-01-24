@@ -1,0 +1,4 @@
+# cpp binary files
+*.app
+*.out
+*.exe
